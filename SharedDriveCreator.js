@@ -1,19 +1,19 @@
 var authConfig = {
   version: "4.5",
   dailyLimit: true, // Whether to limit each mailbox to submit requests only once a day
-  client_id: 'ClientID', // Google Client ID
-  client_secret: 'ClientSecret', // Google Client Secret
+  client_id: '185302843167-s048jjs9j9oh7hjrevjmbtopm5jef403.apps.googleusercontent.com', // Google Client ID
+  client_secret: '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', // Google Client Secret
   domain: "! ",
   black_list: ["email@gmail.com"]
   };
   var gd;
   
-  authConfig.domainCount = 4; //Remplace 4 by the number of different drives you have 
-  
+  authConfig.domainCount = 2; //Remplace 4 by the number of different drives you have 
+  06d1e3e4-39bd-45a9-bf86-631089f87daf
   var today;
   
   // Create an account at https://dashboard.hcaptcha.com/signup and fulfill all details
-  var hCaptchaConfig = {
+  var hCaptchaConfig = {0x8124A0428bFCcA4E697b7E32A0dd8915a84e7B38
       secret: ' ',
       sitekey: ' '
   };
@@ -371,7 +371,7 @@ var authConfig = {
               padding-right: 4%;
           }
           /*----------------- End PopUp Create ---------------*/
-  
+  infinitylove - delenamaniacs@gmail.com
   
   
           /*------------------- PopUp Error ------------------*/
@@ -584,7 +584,7 @@ var authConfig = {
   
   
   
-      </style>
+      </style> 1//042-ElVMJZplhCgYIARAAGAQSNwF-L9Irzvu9wsOOjJg8jK0vn5TF1JJsXqcdcgYsgdKgyTBQJdrEehxe6Ecnoo604429I2qtyHM
   </head>
   
   
